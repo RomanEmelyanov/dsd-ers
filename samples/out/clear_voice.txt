@@ -1,0 +1,452 @@
+            Digital Speech Decoder: Florida Man Edition
+ ██████╗  ██████╗██████╗     ███████╗███╗   ███╗███████╗
+ ██╔══██╗██╔════╝██╔══██╗    ██╔════╝████╗ ████║██╔════╝
+ ██║  ██║╚█████╗ ██║  ██║    █████╗  ██╔████╔██║█████╗  
+ ██║  ██║ ╚═══██╗██║  ██║    ██╔══╝  ██║╚██╔╝██║██╔══╝  
+ ██████╔╝██████╔╝██████╔╝    ██║     ██║ ╚═╝ ██║███████╗
+ ╚═════╝ ╚═════╝ ╚═════╝     ╚═╝     ╚═╝     ╚═╝╚══════╝
+Build Version:  HEAD-HASH-NOTFOUND 
+MBElib Version: 1.3.0
+CODEC2 Support Enabled
+Logging Frame Payload to console
+Audio In Device: ./samples/voice/clear.wav
+14:28:49 Sync: +DMR MS/DM MODE/MONO [31m| CACH/Burst FEC ERR[0m
+14:28:49 Sync: +DMR MS/DM MODE/MONO [31m| CACH/Burst FEC ERR[0m
+14:28:49 Sync: +DMR MS/DM MODE/MONO | VLC [32m 
+ SLOT 1 TGT=1 SRC=41 FLCO=0x00 FID=0x00 SVC=0x00 Group Call [0m 
+[36m DMR PDU Payload [00][00][00][00][00][01][00][00][29][3D][A3][7F][0m
+14:28:49 Sync: +DMR MS/DM MODE/MONO | VC* 
+ AMBE FE313131313000 err = [0] [0] 
+ AMBE FE113131313800 err = [0] [0] 
+ AMBE FDE13131313800 err = [0] [0] 
+ AMBE FDF13131313080 err = [0] [0] 
+ AMBE FDD13131313080 err = [0] [0] 
+ AMBE FDD13131313080 err = [0] [0] 
+ AMBE E804360F451800 err = [0] [0] 
+ AMBE B72B992C444180 err = [0] [0] 
+ AMBE B82C20B2725780 err = [0] [0] 
+ AMBE 0E10BC09709A00 err = [0] [0] 
+ AMBE B81F9FB24BF780 err = [0] [0] 
+ AMBE B81A022C113600 err = [0] [0] 
+ AMBE B818B70181C980 err = [0] [0] 
+ AMBE B809C41C4A4080 err = [0] [0] 
+ AMBE B80DA899A92980 err = [0] [0] 
+ AMBE B80D47358BA580 err = [0] [0] 
+ AMBE B80A6C08889000 err = [0] [0] 
+ AMBE B80793176C7380 err = [0] [0] 
+[31m SLOT 1 FLCO FEC ERR [0m[31m (FEC ERR)[0m
+[36m DMR PDU Payload [00][00][00][00][00][01][00][00][29][0m[36m SB: 00000000000 - 000; [0m
+
+14:28:49 Sync: +DMR MS/DM MODE/MONO | VC* 
+ AMBE B802B08D2D1E80 err = [0] [0] 
+ AMBE B808AEB2CE2780 err = [0] [0] 
+ AMBE B80981278FF680 err = [0] [1] 
+ AMBE B808AB886C5E00 err = [0] [0] 
+ AMBE B80B57B22C6300 err = [0] [0] 
+ AMBE B806688DCACD00 err = [0] [0] 
+ AMBE B80236596B0D80 err = [0] [0] 
+ AMBE B80A63128B7080 err = [0] [0] 
+ AMBE B806215F4C7B80 err = [0] [1] 
+ AMBE B80352968D4200 err = [0] [0] 
+ AMBE B804FC898D2300 err = [0] [0] 
+ AMBE B804A32D2DBF80 err = [0] [0] 
+ AMBE B8077B13CA7800 err = [0] [0] 
+ AMBE B8002690AE2E00 err = [0] [0] 
+ AMBE B80AD0BD2F0200 err = [0] [0] 
+ AMBE C8086790E92980 err = [0] [0] 
+ AMBE B805BB89492480 err = [0] [0] 
+ AMBE B80DA626081E80 err = [0] [0] 
+[31m SLOT 1 FLCO FEC ERR [0m[31m (FEC ERR)[0m
+[36m DMR PDU Payload [00][00][00][00][00][01][00][00][29][0m[36m SB: 00000000000 - 000; [0m
+
+14:28:49 Sync: +DMR MS/DM MODE/MONO | VC* 
+ AMBE B80A400229DD80 err = [0] [0] 
+ AMBE B802D99C4A8880 err = [0] [0] 
+ AMBE B807B927CDC180 err = [0] [0] 
+ AMBE B80B58582DE900 err = [0] [0] 
+ AMBE B800AB1EEC4B80 err = [0] [0] 
+ AMBE B8073B874DE500 err = [0] [0] 
+ AMBE C802B3B9A87800 err = [0] [0] 
+ AMBE C8070388087680 err = [0] [0] 
+ AMBE B807D8178E4700 err = [0] [0] 
+ AMBE B800B8120D9800 err = [0] [0] 
+ AMBE B8086B96AB0800 err = [0] [0] 
+ AMBE B80B90014BC400 err = [0] [0] 
+ AMBE B804E91E698C00 err = [0] [0] 
+ AMBE B80F5690095600 err = [0] [0] 
+ AMBE B802B98EEC6B00 err = [0] [0] 
+ AMBE B803031E0BFA80 err = [0] [0] 
+ AMBE B80DAB4F8C7680 err = [0] [0] 
+ AMBE C804649148BC80 err = [0] [0] 
+[32m SLOT 1 TGT=1 SRC=41 FLCO=0x00 FID=0x00 SVC=0x00 Group Call [0m 
+[36m DMR PDU Payload [00][00][00][00][00][01][00][00][29][0m[36m SB: 00000000000 - 000; [0m
+
+14:28:50 Sync: +DMR MS/DM MODE/MONO | VC* 
+ AMBE B807B3B68C5980 err = [0] [0] 
+ AMBE B800BF006B7F80 err = [0] [0] 
+ AMBE B807B3936E3700 err = [0] [0] 
+ AMBE B80A48918ED380 err = [0] [0] 
+ AMBE B80778974C8800 err = [0] [0] 
+ AMBE B80A49982DDA00 err = [0] [0] 
+ AMBE B8022036ADCD00 err = [0] [0] 
+ AMBE B807038EAB5380 err = [0] [0] 
+ AMBE B80A6F11CC6F00 err = [0] [0] 
+ AMBE B804F82E2B2280 err = [0] [0] 
+ AMBE B808618F4A0080 err = [0] [0] 
+ AMBE B80CBA118EA680 err = [0] [0] 
+ AMBE B809C6586D1880 err = [0] [0] 
+ AMBE B80B09878A3A80 err = [0] [0] 
+ AMBE B80252AD4A4900 err = [0] [0] 
+ AMBE D80AA32FE87900 err = [0] [0] 
+ AMBE C800FE9869A880 err = [0] [0] 
+ AMBE B80B531D4B2080 err = [0] [0] 
+[32m SLOT 1 TGT=1 SRC=41 FLCO=0x00 FID=0x00 SVC=0x00 Group Call [0m 
+[36m DMR PDU Payload [00][00][00][00][00][01][00][00][29][0m[36m SB: 00000000000 - 000; [0m
+
+14:28:50 Sync: +DMR MS/DM MODE/MONO | VC* 
+ AMBE B80DA002490A80 err = [0] [0] 
+ AMBE B804FBBF8A1700 err = [0] [0] 
+ AMBE B80F40912A5C80 err = [0] [0] 
+ AMBE B8024F1D8E6380 err = [0] [0] 
+ AMBE B80F001246D200 err = [0] [0] 
+ AMBE B805F48DE99800 err = [0] [0] 
+ AMBE B80D42978DFE80 err = [0] [0] 
+ AMBE B806AC196E8100 err = [0] [0] 
+ AMBE B800F3562E1F80 err = [0] [0] 
+ AMBE B808F31E4E6700 err = [0] [0] 
+ AMBE B80DCF81AF6D00 err = [0] [0] 
+ AMBE C81570B804AC80 err = [0] [0] 
+ AMBE B800891ECED300 err = [0] [0] 
+ AMBE B819511944D180 err = [0] [0] 
+ AMBE B80F4F11CB6580 err = [0] [0] 
+ AMBE B80062526F2C00 err = [0] [0] 
+ AMBE C80AA490488C80 err = [0] [0] 
+ AMBE C805D82FA89E00 err = [0] [0] 
+[32m SLOT 1 TGT=1 SRC=41 FLCO=0x00 FID=0x00 SVC=0x00 Group Call [0m 
+[36m DMR PDU Payload [00][00][00][00][00][01][00][00][29][0m[36m SB: 00000000000 - 000; [0m
+
+14:28:50 Sync: +DMR MS/DM MODE/MONO | VC* 
+ AMBE C8035214CC6F80 err = [0] [0] 
+ AMBE B818D7C6029E80 err = [0] [0] 
+ AMBE B80B49296AD580 err = [0] [0] 
+ AMBE B80316928B2380 err = [0] [0] 
+ AMBE B807201D8DDB80 err = [0] [0] 
+ AMBE B8029B920DC600 err = [0] [0] 
+ AMBE B807761FEA1880 err = [0] [0] 
+ AMBE B808A89E6B2500 err = [0] [0] 
+ AMBE B809D390AD8D00 err = [0] [0] 
+ AMBE C800B493483700 err = [0] [0] 
+ AMBE B804F24DAD1000 err = [0] [0] 
+ AMBE B80727066C8900 err = [0] [0] 
+ AMBE B80B5C1CCAA680 err = [0] [0] 
+ AMBE B805B9918BAF80 err = [0] [0] 
+ AMBE C804F616285280 err = [0] [0] 
+ AMBE B80249936BBD00 err = [0] [0] 
+ AMBE B80A76128EA080 err = [0] [0] 
+ AMBE B805BA242D6480 err = [0] [0] 
+[31m SLOT 1 FLCO FEC ERR [0m[31m (FEC ERR)[0m
+[36m DMR PDU Payload [00][00][00][00][00][01][00][00][29][0m[36m SB: 00000000000 - 000; [0m
+
+14:28:51 Sync: +DMR MS/DM MODE/MONO | VC* 
+ AMBE B80DA3B38C6380 err = [0] [0] 
+ AMBE B80399886C1D80 err = [0] [0] 
+ AMBE B80F48566D8E00 err = [0] [0] 
+ AMBE B808A01D4DC280 err = [0] [0] 
+ AMBE B807BB9FCA8080 err = [0] [0] 
+ AMBE B800F0120A5B80 err = [0] [0] 
+ AMBE B80A26AE0D8000 err = [0] [0] 
+ AMBE B809DB0EEDF800 err = [0] [0] 
+ AMBE B806DB904A7400 err = [0] [0] 
+ AMBE A80B099F6ED000 err = [0] [0] 
+ AMBE B80E409FE81900 err = [0] [0] 
+ AMBE B805AB560AA900 err = [0] [0] 
+ AMBE B809B413CB4200 err = [0] [0] 
+ AMBE B807DB1C2B4280 err = [0] [0] 
+ AMBE B80220100D6780 err = [0] [0] 
+ AMBE B80A288F6B0900 err = [0] [0] 
+ AMBE B808674E6AFE80 err = [0] [0] 
+ AMBE B80DA21F8A4A80 err = [0] [0] 
+[32m SLOT 1 TGT=1 SRC=41 FLCO=0x00 FID=0x00 SVC=0x00 Group Call [0m 
+[36m DMR PDU Payload [00][00][00][00][00][01][00][00][29][0m[36m SB: 00000000000 - 000; [0m
+
+14:28:51 Sync: +DMR MS/DM MODE/MONO | VC* 
+ AMBE B8075991A8A600 err = [0] [0] 
+ AMBE B80B9AAE68D980 err = [0] [0] 
+ AMBE B80B849E4A0E80 err = [0] [0] 
+ AMBE B802D70C0CFB80 err = [0] [0] 
+ AMBE B8075BCAEF2980 err = [0] [0] 
+ AMBE B80023150F6280 err = [0] [0] 
+ AMBE B8072B22CB4100 err = [0] [0] 
+ AMBE B80A628E286D80 err = [0] [0] 
+ AMBE B8079053485D80 err = [0] [0] 
+ AMBE B802599D8D7180 err = [0] [0] 
+ AMBE B809AA3E0C4A80 err = [0] [0] 
+ AMBE B807279FEC7F80 err = [0] [0] 
+ AMBE B807288C8E8A00 err = [0] [0] 
+ AMBE B808B2A32EDA00 err = [0] [0] 
+ AMBE B8024317CBB700 err = [0] [0] 
+ AMBE B8022C484A0E80 err = [0] [0] 
+ AMBE B80DA0B609C700 err = [0] [0] 
+ AMBE B80D6706CB6B80 err = [0] [0] 
+[32m SLOT 1 TGT=1 SRC=41 FLCO=0x00 FID=0x00 SVC=0x00 Group Call [0m 
+[36m DMR PDU Payload [00][00][00][00][00][01][00][00][29][0m[36m SB: 00000000000 - 000; [0m
+
+14:28:51 Sync: +DMR MS/DM MODE/MONO | VC* 
+ AMBE B806228DEDF380 err = [0] [0] 
+ AMBE B806F6BA0E0880 err = [0] [0] 
+ AMBE B893F5F7E67E80 err = [0] [0] 
+ AMBE B85DBAAEA77780 err = [0] [0] 
+ AMBE B76734E19CAA80 err = [0] [0] 
+ AMBE B08538AA3BFF80 err = [0] [0] 
+ AMBE B08B742F436D00 err = [0] [0] 
+ AMBE B069541603F600 err = [0] [0] 
+ AMBE B16AA041A4B380 err = [0] [0] 
+ AMBE B43F6EAC450780 err = [0] [0] 
+ AMBE B64DE6B964CF80 err = [0] [0] 
+ AMBE B63CED4286B080 err = [0] [0] 
+ AMBE C833A5D3E1E800 err = [0] [0] 
+ AMBE C833AC20012600 err = [0] [0] 
+ AMBE A839E65A67BB80 err = [0] [0] 
+ AMBE A1B615FE3FE380 err = [0] [0] 
+ AMBE B18938BF887680 err = [0] [0] 
+ AMBE B07F74434A6B80 err = [0] [0] 
+[32m SLOT 1 TGT=1 SRC=41 FLCO=0x00 FID=0x00 SVC=0x00 Group Call [0m 
+[36m DMR PDU Payload [00][00][00][00][00][01][00][00][29][0m[36m SB: 00000000000 - 000; [0m
+
+14:28:52 Sync: +DMR MS/DM MODE/MONO | VC* 
+ AMBE B06230426CF700 err = [0] [0] 
+ AMBE B14E6E758DA280 err = [0] [0] 
+ AMBE B73AFACDAFB780 err = [0] [0] 
+ AMBE B73FDD9C6FE000 err = [0] [0] 
+ AMBE B75AFE938F9500 err = [0] [0] 
+ AMBE B73CF9A247FA00 err = [0] [0] 
+ AMBE B713966F4EF900 err = [0] [0] 
+ AMBE B82347E58D1E00 err = [0] [0] 
+ AMBE B851A19EE53B00 err = [0] [0] 
+ AMBE B8371576685F00 err = [0] [0] 
+ AMBE A74E30A97FA780 err = [0] [0] 
+ AMBE A14E2091A62580 err = [0] [0] 
+ AMBE A080F8B023E280 err = [0] [0] 
+ AMBE A06BB8BBA97780 err = [0] [0] 
+ AMBE 906B3CD22F7280 err = [0] [0] 
+ AMBE 906D745FA47700 err = [0] [0] 
+ AMBE 916B385E023280 err = [0] [0] 
+ AMBE 915936B2417680 err = [0] [0] 
+[32m SLOT 1 TGT=1 SRC=41 FLCO=0x00 FID=0x00 SVC=0x00 Group Call [0m 
+[36m DMR PDU Payload [00][00][00][00][00][01][00][00][29][0m[36m SB: 00000000000 - 000; [0m
+
+14:28:52 Sync: +DMR MS/DM MODE/MONO | VC* 
+ AMBE 9150385EE29300 err = [0] [0] 
+ AMBE 935D59D1BCD280 err = [0] [0] 
+ AMBE 943519BD9D7480 err = [0] [0] 
+ AMBE A43118A6384B80 err = [0] [0] 
+ AMBE A44D21441C5700 err = [0] [0] 
+ AMBE A45CECAFBF0800 err = [0] [0] 
+ AMBE B54DF3EE897980 err = [0] [0] 
+ AMBE A75BDB986DA700 err = [0] [0] 
+ AMBE A74ED59AE1C080 err = [0] [0] 
+ AMBE 955515620D7D00 err = [0] [0] 
+ AMBE 924D51566B3F00 err = [0] [0] 
+ AMBE 914D2133ABE780 err = [0] [0] 
+ AMBE 9145319E24A680 err = [0] [0] 
+ AMBE A145B12FC87A80 err = [0] [0] 
+ AMBE A14531186B7200 err = [0] [0] 
+ AMBE A168706567AC00 err = [0] [0] 
+ AMBE B06954DCE37300 err = [0] [0] 
+ AMBE B069B6262FED80 err = [0] [0] 
+[32m SLOT 1 TGT=1 SRC=41 FLCO=0x00 FID=0x00 SVC=0x00 Group Call [0m 
+[36m DMR PDU Payload [00][00][00][00][00][01][00][00][29][0m[36m SB: 00000000000 - 000; [0m
+
+14:28:52 Sync: +DMR MS/DM MODE/MONO | VC* 
+ AMBE C15935AAAB7700 err = [0] [0] 
+ AMBE C1697468ED3B00 err = [0] [0] 
+ AMBE C17BBD57A63580 err = [0] [0] 
+ AMBE D17B31A3C07080 err = [0] [0] 
+ AMBE D25934AE0A4700 err = [0] [0] 
+ AMBE D266A653237700 err = [0] [0] 
+ AMBE D83F6FABA6D800 err = [0] [0] 
+ AMBE D835ECE0837C00 err = [0] [0] 
+ AMBE D832FD2E43FF00 err = [0] [0] 
+ AMBE D833A700634F00 err = [0] [0] 
+ AMBE D83F64F2C11A80 err = [0] [0] 
+ AMBE D82BA627086580 err = [0] [0] 
+ AMBE 9833FC0BA79A00 err = [0] [0] 
+ AMBE 9837AFD9866E00 err = [0] [0] 
+ AMBE 942F3C28AB0D80 err = [0] [0] 
+ AMBE 94292F5292DE80 err = [0] [0] 
+ AMBE 94297E02D3D380 err = [0] [0] 
+ AMBE 9419B9B0FC0580 err = [0] [0] 
+[32m SLOT 1 TGT=1 SRC=41 FLCO=0x00 FID=0x00 SVC=0x00 Group Call [0m 
+[36m DMR PDU Payload [00][00][00][00][00][01][00][00][29][0m[36m SB: 00000000000 - 000; [0m
+
+14:28:53 Sync: +DMR MS/DM MODE/MONO | VC* 
+ AMBE 9811FB1D863680 err = [0] [0] 
+ AMBE A7143E9DBB3100 err = [0] [0] 
+ AMBE A71B3B948F8F00 err = [0] [0] 
+ AMBE B4131D1EF71700 err = [0] [0] 
+ AMBE C8137716C71500 err = [0] [0] 
+ AMBE C8137B8BAF3900 err = [0] [0] 
+ AMBE C817B790EC5200 err = [0] [0] 
+ AMBE B811B71086CA00 err = [0] [0] 
+ AMBE B8196B58E67680 err = [0] [0] 
+ AMBE A71F1710F95300 err = [0] [0] 
+ AMBE A31B33198DD700 err = [0] [0] 
+ AMBE A21B5758D60480 err = [0] [0] 
+ AMBE A21F77B7CD0180 err = [0] [0] 
+ AMBE B2192B14E8B300 err = [0] [0] 
+ AMBE B2297BBEE4C900 err = [0] [0] 
+ AMBE C2297F8600DC00 err = [0] [0] 
+ AMBE C2197D1AAB4600 err = [0] [0] 
+ AMBE C12B777EEE4B00 err = [0] [0] 
+[32m SLOT 1 TGT=1 SRC=41 FLCO=0x00 FID=0x00 SVC=0x00 Group Call [0m 
+[36m DMR PDU Payload [00][00][00][00][00][01][00][00][29][0m[36m SB: 00000000000 - 000; [0m
+
+14:28:53 Sync: +DMR MS/DM MODE/MONO | VC* 
+ AMBE C2197F2EDF1680 err = [0] [0] 
+ AMBE D22B7709D05100 err = [0] [0] 
+ AMBE D21B375BAA1D80 err = [0] [0] 
+ AMBE D21B92960BFB80 err = [0] [0] 
+ AMBE B811FD5EA31C80 err = [0] [0] 
+ AMBE B71E791FDC1880 err = [0] [0] 
+ AMBE B71B2A82849700 err = [0] [0] 
+ AMBE B811F71EC31280 err = [0] [0] 
+ AMBE B81BBD96E31080 err = [0] [0] 
+ AMBE C8135300C38F80 err = [0] [0] 
+ AMBE B8137C8A864480 err = [0] [0] 
+ AMBE B815BF97811B80 err = [0] [0] 
+ AMBE B8057940EE0100 err = [0] [0] 
+ AMBE B81BD708621A00 err = [0] [0] 
+ AMBE B81992D0C13000 err = [0] [0] 
+ AMBE B8035C2DEBA080 err = [0] [0] 
+ AMBE B8127D96A20C80 err = [0] [0] 
+ AMBE B8024000091E00 err = [0] [0] 
+[32m SLOT 1 TGT=1 SRC=41 FLCO=0x00 FID=0x00 SVC=0x00 Group Call [0m 
+[36m DMR PDU Payload [00][00][00][00][00][01][00][00][29][0m[36m SB: 00000000000 - 000; [0m
+
+14:28:53 Sync: +DMR MS/DM MODE/MONO | VC* 
+ AMBE B808FAD28D5380 err = [0] [0] 
+ AMBE B80AD29D4D2280 err = [0] [0] 
+ AMBE B809FD11ED1500 err = [0] [0] 
+ AMBE B800DB0ECD1580 err = [0] [0] 
+ AMBE B80AB991E86880 err = [0] [0] 
+ AMBE B803068E0A7080 err = [0] [0] 
+ AMBE B80B2912AAE500 err = [0] [0] 
+ AMBE B8072B958C4F80 err = [0] [0] 
+ AMBE B80B893E4DAC80 err = [0] [0] 
+ AMBE B80B08838C9E80 err = [0] [0] 
+ AMBE B8074B46EE9280 err = [0] [0] 
+ AMBE B80B50998D0780 err = [0] [0] 
+ AMBE B80B2F96EF7900 err = [0] [0] 
+ AMBE C802711EC85280 err = [0] [0] 
+ AMBE C807DF1889CF00 err = [0] [0] 
+ AMBE C8097940ED8380 err = [0] [0] 
+ AMBE C80F2156AA4900 err = [0] [0] 
+ AMBE B80569038D4D80 err = [0] [0] 
+[32m SLOT 1 TGT=1 SRC=41 FLCO=0x00 FID=0x00 SVC=0x00 Group Call [0m 
+[36m DMR PDU Payload [00][00][00][00][00][01][00][00][29][0m[36m SB: 00000000000 - 000; [0m
+
+14:28:54 Sync: +DMR MS/DM MODE/MONO | VC* 
+ AMBE B80B0B1CABA000 err = [0] [0] 
+ AMBE B807B61B8B2080 err = [0] [0] 
+ AMBE B80B4C960EBB80 err = [0] [0] 
+ AMBE C80202C7AA5900 err = [0] [0] 
+ AMBE C80A76B6AA3100 err = [0] [0] 
+ AMBE B80B0112ED5380 err = [0] [0] 
+ AMBE B8066C87CA0C00 err = [0] [0] 
+ AMBE C80B574C880100 err = [0] [0] 
+ AMBE B80A6C91AEBF00 err = [0] [0] 
+ AMBE B80398802F1600 err = [0] [0] 
+ AMBE B80AA9BFCDEA00 err = [0] [0] 
+ AMBE B80876926F3600 err = [0] [0] 
+ AMBE C802DB0CC9A980 err = [0] [0] 
+ AMBE B80B01162B5380 err = [0] [0] 
+ AMBE B808EC9BAC8600 err = [0] [0] 
+ AMBE B808B89C0B8980 err = [0] [0] 
+ AMBE B802B41EAA0580 err = [0] [0] 
+ AMBE C80273504AA880 err = [0] [0] 
+[32m SLOT 1 TGT=1 SRC=41 FLCO=0x00 FID=0x00 SVC=0x00 Group Call [0m 
+[36m DMR PDU Payload [00][00][00][00][00][01][00][00][29][0m[36m SB: 00000000000 - 000; [0m
+
+14:28:54 Sync: +DMR MS/DM MODE/MONO | VC* 
+ AMBE B80DCC3D8FEB80 err = [0] [0] 
+ AMBE C808C3DFEB7380 err = [0] [0] 
+ AMBE B807328E6F6A80 err = [0] [0] 
+ AMBE B80DC91B8B4280 err = [0] [0] 
+ AMBE B80DA6564ABB00 err = [0] [0] 
+ AMBE B80DC81E4ED400 err = [0] [0] 
+ AMBE B8052B21AF7080 err = [0] [0] 
+ AMBE B80727886F2180 err = [0] [0] 
+ AMBE B80A4817CDBD80 err = [0] [0] 
+ AMBE B80DA3A98C7980 err = [0] [0] 
+ AMBE B804F68E2C0F80 err = [0] [0] 
+ AMBE B807241F8D5B80 err = [0] [0] 
+ AMBE C8086B8CAA9300 err = [0] [0] 
+ AMBE B80874536B9080 err = [0] [0] 
+ AMBE B80D6297AB2900 err = [0] [0] 
+ AMBE B80786494E3F00 err = [0] [0] 
+ AMBE B80B99978E4B80 err = [0] [0] 
+ AMBE B8022618CB8280 err = [0] [0] 
+[32m SLOT 1 TGT=1 SRC=41 FLCO=0x00 FID=0x00 SVC=0x00 Group Call [0m 
+[36m DMR PDU Payload [00][00][00][00][00][01][00][00][29][0m[36m SB: 00000000000 - 000; [0m
+
+14:28:55 Sync: +DMR MS/DM MODE/MONO | VC* 
+ AMBE B80A9815694080 err = [0] [0] 
+ AMBE B808E71A2BF300 err = [0] [0] 
+ AMBE B809D097AE0A80 err = [0] [0] 
+ AMBE B8062BA74E7C80 err = [0] [0] 
+ AMBE B80306498D7B00 err = [0] [0] 
+ AMBE C80C699C08DF80 err = [0] [0] 
+ AMBE C8077328C80B80 err = [0] [0] 
+ AMBE B80A00442BDA00 err = [0] [0] 
+ AMBE B802BDBB889800 err = [0] [0] 
+ AMBE B8030B8D48F900 err = [0] [0] 
+ AMBE B80F469FAABB80 err = [0] [0] 
+ AMBE B809D9126AFD00 err = [0] [0] 
+ AMBE B80B880CAD9000 err = [0] [0] 
+ AMBE C808299B685980 err = [0] [0] 
+ AMBE A80F43BC8FF880 err = [0] [0] 
+ AMBE B80DCA1DAA8880 err = [0] [0] 
+ AMBE B80B91938DB100 err = [0] [0] 
+ AMBE B802DC1DEFE300 err = [0] [0] 
+[32m SLOT 1 TGT=1 SRC=41 FLCO=0x00 FID=0x00 SVC=0x00 Group Call [0m 
+[36m DMR PDU Payload [00][00][00][00][00][01][00][00][29][0m[36m SB: 00000000000 - 000; [0m
+
+14:28:55 Sync: +DMR MS/DM MODE/MONO | VC* 
+ AMBE B805B88E8B0780 err = [0] [0] 
+ AMBE B809890648EE80 err = [0] [0] 
+ AMBE B80DCC8D8A7B00 err = [0] [0] 
+ AMBE B80A73580AF400 err = [0] [0] 
+ AMBE B80706106A2380 err = [0] [0] 
+ AMBE B80772EF8A0E00 err = [0] [0] 
+ AMBE B80A41066DD000 err = [0] [0] 
+ AMBE B8075F098C6D80 err = [0] [0] 
+ AMBE B807B0B6AB4180 err = [0] [0] 
+ AMBE B805D211C97E00 err = [0] [0] 
+ AMBE B802260EA82600 err = [0] [0] 
+ AMBE B80729464CC000 err = [0] [0] 
+ AMBE B80469BF8D6D80 err = [0] [0] 
+ AMBE B807761D2D8480 err = [0] [0] 
+ AMBE B8086889AC1280 err = [0] [0] 
+ AMBE B80DA612AB3B00 err = [0] [0] 
+ AMBE B802D0D14A0280 err = [0] [0] 
+ AMBE A80ADF098FC480 err = [0] [0] 
+[32m SLOT 1 TGT=1 SRC=41 FLCO=0x00 FID=0x00 SVC=0x00 Group Call [0m 
+[36m DMR PDU Payload [00][00][00][00][00][01][00][00][29][0m[36m SB: 00000000000 - 000; [0m
+
+14:28:55 Sync: +DMR MS/DM MODE/MONO | VC* 
+ AMBE A8086CB64F1180 err = [0] [0] 
+ AMBE C802639028AE80 err = [0] [0] 
+ AMBE C8087802489080 err = [0] [0] 
+ AMBE B804FB996F9D80 err = [0] [0] 
+ AMBE B80B9495ACB300 err = [0] [0] 
+ AMBE B802D4388B8F80 err = [0] [0] 
+ AMBE B809A8C76D0800 err = [0] [0] 
+ AMBE B805B3828F6600 err = [0] [0] 
+ AMBE B809D2CE6E2C80 err = [0] [0] 
+
+End of ./samples/voice/clear.wav
+
+Total audio errors: 2
+Total header errors: 0
+Total irrecoverable header errors: 0
+Exiting.
